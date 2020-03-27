@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MemoryStresser</string>
+    <string name="stress">負荷量(MB)</string>
+</resources>
